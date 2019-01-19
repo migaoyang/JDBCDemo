@@ -16,7 +16,7 @@
   <body>
   hello
 
-    <h3><a href="StudentListServlet">显示所有学生列表</a> </h3>
+    <h4><a href="StudentListServlet">显示所有学生列表</a> </h4>
 
 
     <h3><a href="StudentPageListServlet">分页显示学生列表</a> </h3>
