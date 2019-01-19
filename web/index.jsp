@@ -21,7 +21,6 @@
 
     <h3><a href="StudentPageListServlet">分页显示学生列表</a> </h3>
 
-  <h3><a href="StudentPageListServlet">分页显示</a> </h3>
 
 
 
